@@ -1,0 +1,14 @@
+D:\projects\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.deps.json
+D:\projects\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.runtimeconfig.json
+D:\projects\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.runtimeconfig.dev.json
+D:\projects\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.dll
+D:\projects\HomeWork\HomeWork\bin\Debug\netcoreapp2.2\HomeWork.pdb
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.csprojAssemblyReference.cache
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.csproj.CoreCompileInputs.cache
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.RazorAssemblyInfo.cache
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.RazorAssemblyInfo.cs
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.AssemblyInfoInputs.cache
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.AssemblyInfo.cs
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.RazorTargetAssemblyInfo.cache
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.dll
+D:\projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.2\HomeWork.pdb

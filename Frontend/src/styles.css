@@ -1,0 +1,27 @@
+body {
+    display: block;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.add-form {
+    margin-bottom: 50px;
+}
+
+.not-editable input {
+    border: none;
+    background: none;
+}
+
+.not-editable input:focus {
+    outline: none;
+}
+
+input[disabled], select[disabled] {
+    color: black;
+}
+
+.error {
+    color: red;
+    font-size: .8rem;
+}

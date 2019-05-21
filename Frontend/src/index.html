@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HomeWork</title>
+</head>
+<body>
+    <h1>
+        Sales
+    </h1>
+    <main>
+        <form class="add-form">
+            <div data-field="name" class="form-group">
+                <label>Название продажи:</label>
+                <input class="form-control" name="name" type="text"/>
+            </div>
+            <div data-field="clientName" class="form-group">
+                <label>Контрагент:</label>
+                <input class="form-control" name="clientName" type="text"/>
+            </div>
+            <div data-field="contactPerson" class="form-group">
+                <label>Контактное лицо:</label>
+                <input class="form-control" name="contactPerson" type="text"/>
+            </div>
+            <div data-field="saller" class="form-group">
+                <label>Ответственный за продажу:</label>
+                <input class="form-control" name="saller" type="text"/>
+            </div>
+            <div data-field="cityId" class="form-group">
+                <label>Город:</label>
+                <select name="cityId"></select>
+            </div>
+            <div class="panel-body">
+                <button type="submit" class="btn btn-sm btn-primary">Сохранить</button>
+            </div>
+        </form>
+        <table class="table table-condensed table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Название продажи</th>
+                    <th>Контрагент</th>
+                    <th>Контактное лицо</th>
+                    <th>Ответственный за продажу</th>
+                    <th>Город</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </main>
+</body>
+</html>
